@@ -12,7 +12,8 @@ This React web application serves as a dashboard to visualize water and electric
   
 # Demonstration Video
 Click the link below to view a short demonstration of the application
-https://drive.google.com/file/d/14FJtLuxaLA0Xym9OZVcBa6hLPLGiKgnI/view?usp=drive_link
+https://www.loom.com/share/1ef8d97d283e41c98c810fd1f6c40eea?sid=529fde5f-7365-45c5-a017-e70dfc81bf3d
+
 
 # Introduction
 The d-School Afrika building, an architectural marvel in Cape Town since 2015, boasts innovative design and a 6-star rating ambition.
